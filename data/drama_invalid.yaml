@@ -1,0 +1,39 @@
+- title: Naši furianti
+  genre: drama
+  text:
+    - Bláha: Dej pámbu dobrej večer, Josefe!
+- title: ""
+  author: Ladislav Stroupežnický
+  genre: drama
+  text:
+    - Bláha: Dej pámbu dobrej večer, Josefe!
+- title: Nesprávný žánr
+  author: Ladislav Stroupežnický
+  genre: poetry
+  text:
+    - Bláha: Dej pámbu dobrej večer, Josefe!
+- title: Text jako řetězec
+  author: Ladislav Stroupežnický
+  genre: drama
+  text: "Bláha: Dej pámbu dobrej večer, Josefe!"
+- title: Prázdná replika
+  author: Ladislav Stroupežnický
+  genre: drama
+  text:
+    - {}
+- title: Více rolí v položce
+  author: Ladislav Stroupežnický
+  genre: drama
+  text:
+    - Bláha: Dej pámbu dobrej večer, Josefe!
+      Habršperk: Dejž to pámbu, Valentýnku!
+- title: Prázdná hodnota repliky
+  author: Ladislav Stroupežnický
+  genre: drama
+  text:
+    - Bláha: ""
+- title: Chybný typ repliky
+  author: Ladislav Stroupežnický
+  genre: drama
+  text:
+    - Bláha: 17

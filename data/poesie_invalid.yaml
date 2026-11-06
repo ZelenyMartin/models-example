@@ -1,0 +1,53 @@
+- author: Karel Jaromír Erben
+  genre: poetry
+  poem:
+    -
+      - Verš první
+      - Verš druhý
+      - Verš třetí
+      - Verš čtvrtý
+- title: ""
+  author: Karel Jaromír Erben
+  genre: poetry
+  poem:
+    -
+      - Verš první
+      - Verš druhý
+      - Verš třetí
+      - Verš čtvrtý
+- title: Chybný typ autora
+  author: 42
+  genre: poetry
+  poem:
+    -
+      - Verš první
+      - Verš druhý
+      - Verš třetí
+      - Verš čtvrtý
+- title: Nesprávný žánr
+  author: Karel Jaromír Erben
+  genre: prose
+  poem:
+    -
+      - Verš první
+      - Verš druhý
+      - Verš třetí
+      - Verš čtvrtý
+- title: Text místo slok
+  author: Karel Jaromír Erben
+  genre: poetry
+  poem: Verš první, verš druhý, verš třetí, verš čtvrtý
+- title: Neplatný verš
+  author: Karel Jaromír Erben
+  genre: poetry
+  poem:
+    -
+      - Verš první
+      - 23
+      - Verš třetí
+      - Verš čtvrtý
+- title: Prázdná sloka
+  author: Karel Jaromír Erben
+  genre: poetry
+  poem:
+    - []
